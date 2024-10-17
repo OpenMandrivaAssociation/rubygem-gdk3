@@ -8,7 +8,7 @@ Version:	2.2.4
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://ruby-gnome2.sourceforge.jp/
+URL:		https://ruby-gnome2.sourceforge.jp/
 BuildArch:	noarch
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
